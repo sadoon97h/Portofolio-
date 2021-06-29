@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="x2.jpg" height="500" />
+  <img src="x2.jpg" height="400" />
 </p>
 
 ## About Me
